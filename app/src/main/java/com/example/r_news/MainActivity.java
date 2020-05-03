@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
     Adapter adapter;
     EditText etQuery;
     Button btnSearch;
-    final String API_KEY="bf714cb7d55146b0ae774edbbd2c7b48";
+    final String API_KEY="Your_api_key";
     List<Articles> articles = new ArrayList<>();
 
     @Override
